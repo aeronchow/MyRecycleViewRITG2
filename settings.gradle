@@ -1,0 +1,2 @@
+rootProject.name = "MyRecycleViewRITG2"
+include ':app'
